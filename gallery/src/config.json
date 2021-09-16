@@ -1,0 +1,4 @@
+{
+  "main_api": "https://jsonplaceholder.typicode.com",
+  "cloud_db": "https://my-json-server.typicode.com/SimpllleUser/JSON_DB"
+}
